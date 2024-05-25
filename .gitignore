@@ -141,3 +141,4 @@ models/
 philschmid/merged_model
 outputs/
 llama-3-8b-Instruct-bnb-4bit-synthetic_text_to_sql-outputs
+old/
