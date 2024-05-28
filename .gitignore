@@ -110,6 +110,8 @@ ENV/
 env.bak/
 venv.bak/
 unsloth_env
+unsloth_env_2405
+
 
 # Spyder project settings
 .spyderproject
@@ -142,3 +144,5 @@ philschmid/merged_model
 outputs/
 llama-3-8b-Instruct-bnb-4bit-synthetic_text_to_sql-outputs
 old/
+Phi-3-medium-4k-instruct-synthetic_text_to_sql-outputs/
+Phi-3-medium-4k-instruct-synthetic_text_to_sql-outputs-old/
