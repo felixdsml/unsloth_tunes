@@ -147,3 +147,4 @@ old/
 Phi-3-medium-4k-instruct-synthetic_text_to_sql-outputs/
 Phi-3-medium-4k-instruct-synthetic_text_to_sql-outputs-old/
 lora/
+llama-3-8b-bnb-4bit-synthetic_text_to_sql-outputs/
