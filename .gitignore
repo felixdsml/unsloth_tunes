@@ -111,6 +111,7 @@ env.bak/
 venv.bak/
 unsloth_env
 unsloth_env_2405
+env_unsloth
 
 
 # Spyder project settings
